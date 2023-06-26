@@ -1,5 +1,0 @@
-.vscode
-.gitignore
-node_modules
-module.json
-dockerfile.*
